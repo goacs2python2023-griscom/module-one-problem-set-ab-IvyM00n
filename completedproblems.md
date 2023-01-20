@@ -1,10 +1,10 @@
 List of completed problems
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. square.py 
+2. areaofcircle.py 
+3. tipcalculator.py 
+4. twodice.py 
+5. busses.py 
+6. leapyear.py
+7. raceresult.py
+8. casinochance.py
